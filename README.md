@@ -1,1 +1,1 @@
-8-Pool
+Java 8-ball pool game simulator. Final project for the "Programming languages" class in the University of Molise
